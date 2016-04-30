@@ -1,0 +1,27 @@
+<channels>
+
+<channel>
+      <name>[COLOR lime]Albums[/COLOR]</name>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/6/66/20120928130113!Greatest_Hits_TV.png</thumbnail>
+<fanart>http://www.wallmu.com/wallpaperstock/green-guitar-hd-wallpaper.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/timberwolfsc/KG/master/ALB</externallink>
+</channel>
+
+<channel>
+      <name>[COLOR lime]Greatest Hits[/COLOR]</name>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/6/66/20120928130113!Greatest_Hits_TV.png</thumbnail>
+<fanart>http://www.wallmu.com/wallpaperstock/green-guitar-hd-wallpaper.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/timberwolfsc/KG/master/BEST</externallink>
+</channel>
+
+<channel>
+      <name>[COLOR lime]Videos[/COLOR]</name>
+  <thumbnail>http://thumbs.dreamstime.com/x/glassy-green-square-video-camera-icon-5803991.jpg</thumbnail>
+<fanart>http://www.wallmu.com/wallpaperstock/green-guitar-hd-wallpaper.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/timberwolfsc/KG/master/RANVID</externallink>
+</channel>
+
+</channels>
