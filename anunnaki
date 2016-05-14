@@ -929,7 +929,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/channel/UCcSFV-J4ibt8cT6iAf8380A</page>
+<page>https://www.youtube.com/channel/UCcSFV-J4ibt8cT6iAf8380A/videos</page>
 <cookieJar></cookieJar>
 </regex>
  
