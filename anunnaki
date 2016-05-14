@@ -8,13 +8,14 @@
 <title>Leak Project</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.ytimg.com/vi/92BDYPX0j8s/maxresdefault.jpg</thumbnail>
- 
+<fanart>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/fanart.jpg</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param2]</title>
 <link>$doregex[makelist2]</link>
 <referer></referer>
+<fanart>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/fanart.jpg</fanart>
 <thumbnail>https://i.ytimg.com/vi/92BDYPX0j8s/maxresdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
@@ -1465,7 +1466,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Late Night in the Midlands</title>
+<title>Late Night in the Midlands - Audio Stream</title>
 <link>http://50.7.71.219:7228/stream</link>
 <thumbnail>http://www.americancitizenparty.us/acp/wp-content/uploads/LMN-Radio.png</thumbnail>
 </item>
