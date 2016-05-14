@@ -1100,9 +1100,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>StRaNgeR ThAn NeWs</title>
+<title>Lisa Haven</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://yt3.ggpht.com/-U99JE8LoARw/AAAAAAAAAAI/AAAAAAAAAAA/036KBCA1rd4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-7IOgghwIdtg/AAAAAAAAAAI/AAAAAAAAAAA/X0S8t4p9UzY/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
  
 <regex>
 <name>makelist</name>
@@ -1110,10 +1110,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[makelist.param2]</title>
 <link>$doregex[makelist2]</link>
 <referer></referer>
-<thumbnail>https://yt3.ggpht.com/-U99JE8LoARw/AAAAAAAAAAI/AAAAAAAAAAA/036KBCA1rd4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-7IOgghwIdtg/AAAAAAAAAAI/AAAAAAAAAAA/X0S8t4p9UzY/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/channel/UCNFepIrTLpDZFhyIl-fNAig/playlists</page>
+<page>https://www.youtube.com/user/TheElissaHill/playlists</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -1123,7 +1123,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>page [makelist2.param1]</title>
 <link>$doregex[makelist3]</link>
 <referer></referer>
-<thumbnail>https://yt3.ggpht.com/-U99JE8LoARw/AAAAAAAAAAI/AAAAAAAAAAA/036KBCA1rd4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-7IOgghwIdtg/AAAAAAAAAAI/AAAAAAAAAAA/X0S8t4p9UzY/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres> (.*?),</expres>
 <page>$doregex[get-number]</page>
