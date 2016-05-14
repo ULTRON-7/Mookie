@@ -7,6 +7,7 @@
 <item>
 <title>Leak Project</title>
 <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/92BDYPX0j8s/maxresdefault.jpg</thumbnail>
  
 <regex>
 <name>makelist</name>
@@ -189,6 +190,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>UFOTV</title>
 <link>$doregex[makelist]</link>
+<thumbnail>http://www.playonscripts.com/images/icons/YtCm9dftGPa0.jpg</thumbnail>
  
 <regex>
 <name>makelist</name>
@@ -370,6 +372,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>Project Camelot</title>
 <link>$doregex[makelist]</link>
+<thumbnail>https://jwilliams7497.files.wordpress.com/2015/01/340de-projectcamelot.png?w=670</thumbnail>
  
 <regex>
 <name>makelist</name>
