@@ -28,7 +28,7 @@
 <title>page [makelist2.param1]</title>
 <link>$doregex[makelist3]</link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/92BDYPX0j8s/maxresdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres> (.*?),</expres>
 <page>$doregex[get-number]</page>
@@ -211,7 +211,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>page [makelist2.param1]</title>
 <link>$doregex[makelist3]</link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>http://www.playonscripts.com/images/icons/YtCm9dftGPa0.jpg</thumbnail>
 ]]></listrepeat>
 <expres> (.*?),</expres>
 <page>$doregex[get-number]</page>
@@ -393,7 +393,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>page [makelist2.param1]</title>
 <link>$doregex[makelist3]</link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://jwilliams7497.files.wordpress.com/2015/01/340de-projectcamelot.png?w=670</thumbnail>
 ]]></listrepeat>
 <expres> (.*?),</expres>
 <page>$doregex[get-number]</page>
