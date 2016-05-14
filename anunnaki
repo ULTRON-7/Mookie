@@ -17,7 +17,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/watch?v=pOJjtVNiuLU&list=PLJ5h_AoYnbhm5jl4qkOiI7rW8k1jBOtTB</page>
+<page>https://www.youtube.com/channel/UCuIfBWQn2lj_IOKW2Woaoug</page>
 <cookieJar></cookieJar>
 </regex>
  
