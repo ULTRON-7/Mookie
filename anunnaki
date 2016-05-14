@@ -747,7 +747,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://i2.wp.com/dutchsinse.com/wp-content/uploads/2014/11/dutchsinse-pyramid.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/channel/UC6zTbgcUlb5BHV-fcbL18_g/playlists</page>
+<page>https://www.youtube.com/user/dutchsinse/playlists</page>
 <cookieJar></cookieJar>
 </regex>
  
