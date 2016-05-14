@@ -2,13 +2,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<channels>
 
-<channel>
-<name>Video - Playlists</name>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<items>
 
 <item>
 <title>Leak Project</title>
@@ -23,7 +17,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/user/ClandestineTimelord/videos</page>
+<page>https://www.youtube.com/watch?v=pOJjtVNiuLU&list=PLJ5h_AoYnbhm5jl4qkOiI7rW8k1jBOtTB</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -191,17 +185,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 </item>
 
-<channel>
-<name>Video - Playlists</name>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<items>
+
+<item>
+<title>Top Channel Albania</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param2]</title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
+                        <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
+            ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
+            <page>https://www.youtube.com/user/ClandestineTimelord/playlists</page>
+            <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
+</item>
 
 <item>
 <title>Late Night in the Midlands</title>
 <link>http://cent5.serverhostingcenter.com:2199/tunein/pruxipke.pls</link>
 <thumbnail>http://ignoreme</thumbnail>
 </item>
-</items>
-</channel>
-</channels>
+
