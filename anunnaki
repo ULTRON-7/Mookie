@@ -734,7 +734,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>DutchSinse</title>
+<title>Dutchsinse</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://i2.wp.com/dutchsinse.com/wp-content/uploads/2014/11/dutchsinse-pyramid.jpg</thumbnail>
  
