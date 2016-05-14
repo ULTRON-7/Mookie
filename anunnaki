@@ -205,7 +205,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Late Night in the Midlands</title>
-<link>http://cent5.serverhostingcenter.com:2199/tunein/pruxipke.pls</link>
+<link>http://50.7.71.219:7228/stream</link>
 <thumbnail>http://ignoreme</thumbnail>
 </item>
 
