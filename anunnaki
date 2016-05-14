@@ -915,27 +915,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 </item>
 
-<item>
-<title>Dill Martin</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
-                        <thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-            ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
-            <page>https://www.youtube.com/channel/UCcSFV-J4ibt8cT6iAf8380A/videos</page>
-            <cookieJar></cookieJar>
-</regex>
-<thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
+
 
 <item>
-<title>Dill Martin</title>
+<title>Really Wierd Tv</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-ahDGicYQilA/AAAAAAAAAAI/AAAAAAAAAAA/0KQ9x5DxA4g/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
  
 <regex>
 <name>makelist</name>
@@ -943,10 +928,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[makelist.param2]</title>
 <link>$doregex[makelist2]</link>
 <referer></referer>
-<thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-ahDGicYQilA/AAAAAAAAAAI/AAAAAAAAAAA/0KQ9x5DxA4g/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/channel/UCcSFV-J4ibt8cT6iAf8380A/videos</page>
+<page>https://www.youtube.com/channel/UCnNWxPvQ-ughd-E1qtCJl5g/playlists</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -956,7 +941,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>page [makelist2.param1]</title>
 <link>$doregex[makelist3]</link>
 <referer></referer>
-<thumbnail>https://yt3.ggpht.com/-mOsbePZ2Q2U/AAAAAAAAAAI/AAAAAAAAAAA/_GCB0nNwghI/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-ahDGicYQilA/AAAAAAAAAAI/AAAAAAAAAAA/0KQ9x5DxA4g/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres> (.*?),</expres>
 <page>$doregex[get-number]</page>
