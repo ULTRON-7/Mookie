@@ -190,6 +190,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  
 </item>
+
+<channel>
+<name>Video - Playlists</name>
+<thumbnail>http://ignoreme</thumbnail>
+<fanart>http://ignoreme</fanart>
+<items>
+
+<item>
+<title>Late Night in the Midlands</title>
+<link>http://cent5.serverhostingcenter.com:2199/tunein/pruxipke.pls</link>
+<thumbnail>http://ignoreme</thumbnail>
+</item>
 </items>
 </channel>
 </channels>
