@@ -1507,7 +1507,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Mountain Monsters</title>
-<link>$doregex[makelist]</link>
+<link>$doregex[makelist]|X-Forwarded-For=163.121.255.255</link>
 <thumbnail>https://yt3.ggpht.com/-_2EVMDyPgdU/AAAAAAAAAAI/AAAAAAAAAAA/xvKVq7cYwmI/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/fanart.jpg</fanart>
 <regex>
@@ -1520,7 +1520,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://yt3.ggpht.com/-_2EVMDyPgdU/AAAAAAAAAAI/AAAAAAAAAAA/xvKVq7cYwmI/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 ]]></listrepeat>
 <expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
-<page>https://www.youtube.com/channel/UCcV1nvGFQpPQ4SwQIhv-ILA/playlists</page>
+<page>https://www.youtube.com/channel/UCNYz5I8qfZuN7_bua0WvAZQ/playlists</page>
 <cookieJar></cookieJar>
 </regex>
  
