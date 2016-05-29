@@ -1,0 +1,122 @@
+<meta name="robots" content="noindex,nofollow"/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<channels>
+
+<channel>
+       <name>[COLOR yellow]Live Tv[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://static2.businessinsider.com/image/4ebafa4becad04692f000046/now-sony-wants-to-kill-your-cable-tv-box.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/LIVETV.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR red]Sports[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2013/09/XboxOne_Ad_JFrame02_low_res.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/MYSPO.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR white]Acestream Sports by Rapy[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://www.underconsideration.com/brandnew/archives/StarSports_02.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://iptv.3xforum.ro/img/pics/iptv.3xforum.ro/style/Rapy_ace_sport_mix.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR pink]Hunter's Stuff[/COLOR]</name>
+       <thumbnail>http://www.hunterindustries.com/sites/default/files/Hunter_Logo.png</thumbnail>
+       <fanart>http://static2.wallpedes.com/wallpaper/pink/pink-wallpaper-hd-for-desktop-backgrounds-free-download-pink-hd-desktop-wallpaper-tumblr-for-walls-iphone-background-bedroom-vs-glitter.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/KIDMOV.m3u</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR red]Classic Shows[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://q7.neurotica.com/Q7/scifi/6Million/6MDM8-L.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/MYSHO.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR blue]Vaughnlive[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/VLIVE.xml</externallink>
+</channel>
+  
+<channel>
+       <name>[COLOR silver]24/7 Series[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://www.stuntkid.com/downloads/1024_chicken.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/SER.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR purple]More 24/7 Series[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://www.stuntkid.com/downloads/1024_chicken.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/SER2.xml</externallink>
+</channel>
+  
+<channel>
+       <name>[COLOR lightgreen]Movie Collection[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://techinfo-4u.com/wp-content/uploads/2010/04/itunes-movies.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/MOVCAT.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR red]Filmon SciFi/Horror[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://img.rp.vhd.me/4499658_l4.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/FTVHORSCI.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR green]Music[/COLOR]</name>
+       <thumbnail>http://sunnylol.com/images/2012/October/24/5087e188decc3.jpg</thumbnail>
+       <fanart>http://wallpoper.com/images/00/36/33/06/green-music_00363306.png</fanart>
+       <link>http://ignoreme</link>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/MU/master/MUSRC</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR gold]Chicken Cartoons[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>https://s-media-cache-ak0.pinimg.com/originals/12/bc/84/12bc8446e2ae8eab98a57d4d37d58ad7.jpg</fanart>
+       <link>http://ignoreme</link>
+      <externallink>http://www.chickentv.ml/CTVXML/CARTMEN.xml</externallink>
+</channels>
+
+<channel>
+       <name>[COLOR teal]Stalker TEST[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://quantifiedself.com/wp-content/uploads/2013/08/Caution-Testing-In-Progress-Sign-S-8894.gif</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/STKLR.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR black]Secret Stash[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>https://pbs.twimg.com/profile_images/584096217/STACHE_SKULL.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/SS.xml</externallink>
+</channel>
+
+</channels>
+ 
