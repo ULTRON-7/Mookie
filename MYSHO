@@ -10,7 +10,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://40.media.tumblr.com/51d8e67fb8182d4a91a292fc5a21a2d7/tumblr_mpkx2xpTlM1qdddfio1_1280.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/SPMAN.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/SPMAN</externallink>
 </channel>
 
 
@@ -19,7 +19,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://www.wallwides.com/wallpaper/wp-content/uploads/2013/01/20/4206/Batman-1966-Wallpaper.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/BATMN.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/BATMN</externallink>
 </channel>
 
 <channel>
@@ -27,7 +27,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://media.liveauctiongroup.net/i/8823/10030534_2.jpg?v=8CE7141188C9D20</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/GREENH.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/GREENH</externallink>
 </channel>
 
 <channel>
@@ -35,7 +35,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://bloody-disgusting.com/photosizer/upload/kolcheck021212.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/NSTKLR.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/NSTKLR</externallink>
 </channel>
 
 <channel>
@@ -43,7 +43,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://static.ddmcdn.com/gif/blogs/6a00d8341bf67c53ef017c34148aa8970b-800wi.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/SIXMIL.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/SIXMIL</externallink>
 </channel>
 
 <channel>
@@ -51,7 +51,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>https://pmcvariety.files.wordpress.com/2014/07/apes.jpg?w=670</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/PTATV.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/PTATV</externallink>
 </channel>
 
 <channel>
@@ -59,7 +59,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://nerdreactor.com/wp-content/uploads/2013/09/wonderwoman.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/WONDW.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/WONDW</externallink>
 </channel>
 
 <channel>
@@ -67,7 +67,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://nerdbastards.com/wp-content/uploads/2013/09/incredible-hulk-lou-ferrigno-WIDE.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/HULK.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/HULK</externallink>
 </channel>
 
 <channel>
@@ -75,7 +75,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://pxhst.co/avaxhome/57/ed/0011ed57_medium.jpeg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/TZ.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/TZ</externallink>
 </channel>
 
 <channel>
@@ -83,7 +83,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://4.bp.blogspot.com/-2RIqcI6zac4/U2aPR3-a6RI/AAAAAAAArl8/FBkN2RrvC8A/s1600/passenger5.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/SP99.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/SP99</externallink>
 </channel>
 
 <channel>
@@ -91,7 +91,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://www.dvdtalk.com/reviews/images/reviews/81/1313173156_5.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/MFA.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/MFA</externallink>
 </channel>
 
 <channel>
@@ -99,7 +99,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://www.cryptozoonews.com/wp-content/uploads/2014/08/isonimoy1.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/ISOF.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/ISOF</externallink>
 </channel>
 
 </channels>
