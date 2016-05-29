@@ -1,0 +1,49 @@
+<meta name="robots" content="noindex,nofollow"/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<channels>
+
+<channel>
+       <name>[COLOR yellow]Marvel Super Heroes[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://40.media.tumblr.com/2464051e5782b8bb641698f952ee9e60/tumblr_n8f1igkrpN1rur0aro1_500.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/MARVEL.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR orange]Return to the Planet of the Apes[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://i.ytimg.com/vi/qKCdrcEhTJA/hqdefault.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/PACART.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR red]Spider-Man and his Amazing Friends[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://oyster.ignimgs.com/wordpress/stg.ign.com/2014/04/SPider-Man-Amazing-Friends.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/SPIDEY.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR white]Super Friends[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://www.cartoonscrapbook.com/01pics-L/super-friends-73_L01.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/SFCART.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR yellow]Thundarr the Barbarian[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://www.the-other-view.com/images/thundarr4.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/THUND.xml</externallink>
+</channel>
+
+
+</channels>
