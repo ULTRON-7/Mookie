@@ -10,7 +10,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://cdn.movieweb.com/img.news.tops/NEhcg8KksKtykl_1_b.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/UNIMONv2.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/UNIMONv2</externallink>
 </channel>
 
 <channel>
@@ -18,7 +18,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://3.bp.blogspot.com/-Xy1zLSmsDhw/VFOkzQj_XcI/AAAAAAAAArI/IUY0Ddmp3HU/s1600/Horror%2BMovie%2BMontage.PNG</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/RETROHOR.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/RETROHOR</externallink>
 </channel>
 
 <channel>
@@ -26,7 +26,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://vagary.tv/wp-contentnew/2012/09/31behindthemask.jpg</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/MODHOR.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/MODHOR</externallink>
 </channel>
 
 <channel>
@@ -34,7 +34,7 @@
        <thumbnail>http://ignoreme</thumbnail>
        <fanart>http://elgore.com/wp-content/uploads/2012/01/tumblr_lybgnoqwxs1r18ca6.png</fanart>
        <link>http://ignoreme</link>
-       <externallink>http://www.chickentv.ml/CTVXML/GORE.xml</externallink>
+       <externallink>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/GORE</externallink>
 </channel>
 
 </channels>
