@@ -1,0 +1,40 @@
+<meta name="robots" content="noindex,nofollow"/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<channels>
+
+<channel>
+       <name>[COLOR white]Universal Monsters[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://cdn.movieweb.com/img.news.tops/NEhcg8KksKtykl_1_b.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/UNIMONv2.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR white]Retro Horror[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://3.bp.blogspot.com/-Xy1zLSmsDhw/VFOkzQj_XcI/AAAAAAAAArI/IUY0Ddmp3HU/s1600/Horror%2BMovie%2BMontage.PNG</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/RETROHOR.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR white]Modern Horror[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://vagary.tv/wp-contentnew/2012/09/31behindthemask.jpg</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/MODHOR.xml</externallink>
+</channel>
+
+<channel>
+       <name>[COLOR white]GoreFest[/COLOR]</name>
+       <thumbnail>http://ignoreme</thumbnail>
+       <fanart>http://elgore.com/wp-content/uploads/2012/01/tumblr_lybgnoqwxs1r18ca6.png</fanart>
+       <link>http://ignoreme</link>
+       <externallink>http://www.chickentv.ml/CTVXML/GORE.xml</externallink>
+</channel>
+
+</channels>
