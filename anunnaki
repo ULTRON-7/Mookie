@@ -2,14 +2,17 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+
 <item>
 <title>80s Horror.net</title>
 <link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
 <regex>
 <name>makelist</name>
 <listrepeat><=!=[=C=D=A=T=A=[
     <title>[makelist.param2]</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
     <thumbnail>NA</thumbnail>
 ]=]=></listrepeat>
 <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
