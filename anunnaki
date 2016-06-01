@@ -2,7 +2,22 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
+<item>
+<title>80s Horror.net</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><=!=[=C=D=A=T=A=[
+    <title>[makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>NA</thumbnail>
+]=]=></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLP8vaiiqJY8KD_CtVFftj5X_H_P3Fly7_</page>
+<referer>https://www.youtube.com/user/derekisdman/playlists</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
 <title>Leak Project</title>
