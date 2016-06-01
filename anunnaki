@@ -5,21 +5,25 @@
 
 
 <item>
-<title>80s Horror.net</title>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
+<title>TEST | DailyMotion</title>
+<link>$doregex[final-url]|User-Agent=iPhone&amp;Referer=http://www.dailymotion.com/video/x2h7355</link>
 <regex>
-<name>makelist</name>
-<listrepeat><=!=[=C=D=A=T=A=[
-    <title>[makelist.param2]</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-    <thumbnail>NA</thumbnail>
-]=]=></listrepeat>
-<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-<page>https://www.youtube.com/playlist?list=PLP8vaiiqJY8KD_CtVFftj5X_H_P3Fly7_</page>
-<referer>https://www.youtube.com/user/derekisdman/playlists</referer>
-<cookieJar></cookieJar>
+<name>final-url</name>
+<expres>NAME="720".*\n.*?(http.*)</expres>
+<page>$doregex[url]</page>
 </regex>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-cleanUrl]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-cleanUrl</name>
+<expres>mpegURL.*"(http.*m3u8.*?)"\W</expres>
+<page>http://www.dailymotion.com/video/x2zkyy3</page>
+<referer>http://www.dailymotion.com/video/x2zkyy3</referer>
+</regex>
+<thumbnail></thumbnail>
 </item>
 
 <item>
