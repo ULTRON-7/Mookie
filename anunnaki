@@ -3,7 +3,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>Infowars Video Stream</title>
+<title>Infowars - Video Stream</title>
 <link>http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8</link>
 <thumbnail>http://static.infowars.com/2012/09/i/general/girl&robot.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/ULTRON-7/Mookie/master/fanart.jpg</fanart>
