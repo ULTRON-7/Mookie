@@ -17,6 +17,128 @@
 </item>
 
 <item>
+<title>[COLOR yellow]CANALI TV DIGITALE TERRESTRE[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/xxb5chdyrbt45ir/tv-italiana.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>http://bit.ly/m3ubyinfogw</externallink>
+</item>
+ 
+<item>
+  <title>[COLOR green]LISTE IPTV 1*[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR yellow][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+  <title>[COLOR red]LISTE IPTV 2*[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.oneplaylist.eu.pn/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]LISTE WATCHAPP[/COLOR][/B]</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/gamagb4yht9qnas/button-play.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/bq10l2i8uqg94f5/WATCHAPP.xml?dl=1</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR grey]FILM ON DEMAND[/COLOR][/B]</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/lm1sdub4p2s1o6p/cinema-penguin.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/ktycmr9892u23pm/tv_channels_livio_.xml?dl=1</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]Radio Italiane[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/rz1h3cjyxamri4i/Radio-Free-PNG-Image.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/emb5yoka5a9ijg5/Radio%20Italiane.xml?dl=1</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR yellow]CANALI SPORTSDEVIL (Richiede l'installazione dell'add-on)[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/kfvaf6jhzsrmwfn/sd.png?dl=1</thumbnail>
+<fanart>http://ftp.acc.umu.se/mirror/addons.superrepo.org/v7/addons/plugin.video.sportsdevil.launcher/fanart.jpg</fanart>
+<externallink>https://www.dropbox.com/s/avl5nlafefzv3pv/Canali%20Sortsdevil.xml?dl=1</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR white]SERIE A[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/2bcprl2kjh3wbo9/seriea.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/s00c5fz7kuqhk8m/S24_SERIE_A.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]SKY SPORT[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/zqjg0qo911dl9z2/sky-sport-hd-1.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/7fou8k8uces5xms/S01_SKY_SPORT_IT.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR orange]PREMIUM CALCIO[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/pdomvoib8u0wc69/logo_premium_calcio.jpg?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/d5s0eyqykzygliw/S02_PREMIUM_CALCIO.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR grey]CHAMPIONS LEAGUE[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/ccwt2s312gpxyvf/uefa-champions-league-2013-01-29.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/06c8639j618hhuo/S24_UCL.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR orange]EUROPA LEAGUE[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/yo42jdku7jcwzj8/uefa_europa_league_by_keshboy-d922i89.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/kplv788tjtn0ezq/S24_UEL.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR purple]BEIN SPORTS CHANNELS[/COLOR] [/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/y66smgf5svrqfn1/bein.png?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://www.dropbox.com/s/4nfqygkw7vu6vpe/bein.m3u?dl=1$$TSDOWNLOADER$$</externallink>
+</item>
+
+<item>
 <title>Leak Project</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.ytimg.com/vi/92BDYPX0j8s/maxresdefault.jpg</thumbnail>
