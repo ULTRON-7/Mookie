@@ -1,32 +1,109 @@
-#EXTINF:-1,UK:Horror Channel
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1810.ts
-#EXTINF:-1,UK: Sky Action HD
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1060.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1747.ts
-#EXTINF:-1,UK: Sky Movies Drama
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1694.ts
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1253.ts
-#EXTINF:-1,UK: Sky Movies  Premiere
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1748.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1251.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1252.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1255.ts
-#EXTINF:-1,UK: Sky Movies Modern
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1098.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1097.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1096.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1099.ts
-#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1629.ts
-#EXTINF:-1,EX-YU: Pink Horror
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1012.ts
-#EXTINF:-1,EX-YU: Pink Western
-http://ksportiptv.com:1557/live/MOTHER-TERESA/THE-ALBANIAN-SAINT/1632.ts
+<item>
+  <title>[COLOR yellow]Horror Channel[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1810.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Action HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1060.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Action[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1747.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Drama[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1694.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]SKY Movies Premier HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1253.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]SKY Movies Premier HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1748.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Thriller HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1251.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Sci-fi & Horror HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1252.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]SKY Movies Disney HD[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1255.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Modern[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1098.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Family[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1097.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Comedy[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1096.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Sky Movies Select[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1099.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Pink Sci-Fi & Fantasy[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1629.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Pink Horror[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1012.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR yellow]Pink Western[/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1632.ts&streamtype=TSDOWNLOADER</link>
+  <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
