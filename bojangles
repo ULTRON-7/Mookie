@@ -1,3 +1,9 @@
+<meta name="robots" content="noindex,nofollow"/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<items>
+
 <item>
   <title>[COLOR yellow]Horror Channel[/COLOR]</title>
   <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1810.ts&streamtype=TSDOWNLOADER</link>
@@ -93,6 +99,8 @@
   <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/ARIVA 05/eFfCuMJyEk/1632.ts&streamtype=TSDOWNLOADER</link>
   <thumbnail>http://www.superchicken.se/images/logo.png</thumbnail>
 </item>
+
+</items>
 
 
 
