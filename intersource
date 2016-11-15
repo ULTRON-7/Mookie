@@ -57,3 +57,80 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.freeiptvlinks.net/'):
 <cookieJar></cookieJar></regex>
 <thumbnail>http://vignette2.wikia.nocookie.net/planetoftheapes/images/4/45/Maurice.png/revision/latest/scale-to-width-down/1000?cb=20150708013643</thumbnail>
 </item>
+
+<item>
+<title>urhd.tv</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow][makelist.param2][/COLOR] [[makelist.param1]]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>alive":(.*?),.+?display_name":"(.*?)","picture":"(.*?)","slug":"\/(.*?)"</expres>
+<page>$doregex[getPage]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import re
+ source = re.search(r"flashplayer.+'\/(.*?)'.*\s.*'(http.*?)'", page_data)
+ return source.group(2) + '|Referer=http://urhd.tv/' + source.group(1)
+]]></expres>
+<page>http://urhd.tv/[makelist.param4]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPage</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import re
+ strurl = re.findall('channels="(.*)"', page_data)[0].replace('\/', '/').replace('&quot;','"').replace('false', '[COLOR red]Offline[/COLOR]').replace('true', '[COLOR green]Online[/COLOR]')
+ return strurl
+]]></expres>
+<page>http://urhd.tv/</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>liveonlinetv247.info</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url1]&amp;streamtype=HLS</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<li><a href="\/watch.*?title=(.*?)\&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/tvchannels.php</page>
+</regex>
+<regex>
+<name>url1</name>
+<expres><![CDATA[<source type=".*?src="(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>kodiLive</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param2]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+<page>http://kodilive.eu/tv/</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+<referer>http://kodilive.eu</referer>
+</regex>
+</item>
