@@ -1,5 +1,5 @@
 <item>
-  <title>[COLOR yellow]Potluck Scraper 1[/COLOR]</title>
+  <title>[COLOR yellow]Super Chicken Scrape 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -35,7 +35,7 @@
 >
 
 <item>
-<title>[COLOR yellow]Potluck Scraper 2 - NEW[/COLOR]</title>
+<title>[COLOR yellow]Super Chicken Scrape 2 - NEW[/COLOR]</title>
 <link>$doregex[makelist]</link>				
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
