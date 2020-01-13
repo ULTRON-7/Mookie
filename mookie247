@@ -1,0 +1,34 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZixQ64F.jpg" group-title="",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:0 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="",Mr. Pickles
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:0 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/od5JJuj7xZ0/maxresdefault.jpg" group-title="",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+
+#EXTINF:0 tvg-logo="https://scdn.nflximg.net/images/5409/3955409.jpg" group-title="",Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24/7",Wipeout
+http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24/7",The New Detectives
+http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/14307.jpg" group-title="24/7",Anime
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset-manager.bbcchannels.com/i/2fad61c20e61000" group-title="24/7",Doctor Who
+https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/3063648/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=afm0olmob01dea5o07g90tqtu0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=
+
